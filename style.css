@@ -1,0 +1,101 @@
+body{
+    background-color: whitesmoke;
+}
+header{
+    text-align: center; 
+    background-color: lightskyblue;
+    text-decoration-color: whitesmoke;
+    padding: 20px;
+    margin: 0px;
+}
+img{
+    width: 250px;
+    border-radius: 10px;
+}
+article{
+    display: inline-block;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #3498db;
+    border-radius: 10px;
+    padding: 15px;
+    margin-left: 120px;
+    margin-top:50px;
+    margin-bottom:30px;
+    background-color: #ffffff;
+    text-align: center;
+    width: 300px;
+    
+}
+form{
+    color: whitesmoke;
+    border-radius: 20px;
+    text-align: center;
+    background-color: #3498db;
+    box-sizing :border-box;
+    margin:0px;
+    padding: 5px;
+}
+button{
+    text-decoration: solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: whitesmoke;
+}
+#contact{
+    text-align: center;
+    background-color: #3498db;
+    /* width:500px; */
+    padding:50px;
+}
+nav{
+    background-color: burlywood; 
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+#pricing{
+    text-align: center;
+   margin: 10px;
+   padding: 20px;
+   color: #3498db;
+}
+.price-table{
+    text-align: center;
+    width: 80%;
+    margin:0 auto;
+
+}
+th,
+td {
+  border: 2px solid #ddd;
+  padding: 15px;
+  background-color: #fff;
+}
+
+th {
+  background-color: #2980b9;
+  color: white;
+}
+h2{
+    padding-top: 20px;
+    text-align: center;
+    color:white;
+}
+.contact-info{
+    color:white;
+    text-align: center;
+}
+li{
+    border: 0px  solid;
+    background-color:#555 ;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.stress{
+    
+    padding:30px;
+    background-color:#333;
+}
